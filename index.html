@@ -250,7 +250,7 @@
             methods: {
                 onlyNumber($event) {
                     let keyCode = ($event.keyCode ? $event.keyCode : $event.which);
-                    if (keyCode < 48 || keyCode > 57) { // 46 is dot
+                    if (keyCode < 48 || keyCode > 57) { 
                         $event.preventDefault();
                     }
                 },
