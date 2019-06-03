@@ -9,5 +9,5 @@ var api = new InsurandoAPI('<baseurl>', '<username>', '<password>');
 Proje test'e hazır
 
 İyi çalışmalar.
-
+---
 <img src="assets/images/Capture.PNG">
