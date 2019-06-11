@@ -1,14 +1,11 @@
-﻿# Vue.js ile örnek lead formu
+﻿#Example lead form with Vue.js 
 
-Projeyi indirin
-index html içerisinde bulunan api tanımlama kod parçacığı üzerinde gerekli tanımlamaları yapın
+Dowload project make necessary changes on the API code part which is in the index.html.
 ``` js 
 var api = new InsurandoAPI('<baseurl>', '<username>', '<password>');
 ```
 
-Proje test'e hazır
-
-İyi çalışmalar.
+Project ready for test
 ---
 ---
 <img src="assets/images/Capture.PNG">
